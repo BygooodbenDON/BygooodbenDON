@@ -5,7 +5,7 @@
 # 👋 BygooodbenDON
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080,FFFFFF&height=300&section=header&text=BygooodbenDON&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=BygooodbenDON&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=000000" />
 </p>
 
 <p align="center">
