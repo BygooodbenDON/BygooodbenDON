@@ -2,51 +2,36 @@
   <strong>English</strong> | <a href="./README_ZH.md">中文</a>
 </div>
 
-# 👋 Hi, I'm BygooodbenDON
+# 👋 BygooodbenDON
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BygooodbenDON&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=200&section=header&text=BygooodbenDON&fontSize=70&animation=fadeIn&fontColor=58a6ff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=Exploring+AI+%26+Agentic+Coding;Building+Efficient+Software;Turning+Complexity+into+Elegance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Sophomore+CS+Student;Multi-Agent+Systems+Enthusiast;AI-driven+Stock+Analysis+Research" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
-- 🤖 Passionate about **AI Automation** and **Agentic Coding**.
-- 🛠️ Constantly building and exploring new technologies.
-- 🎯 Focused on efficiency and high-quality software engineering.
+---
 
-## 🛠️ My Tech Stack
+### 🎓 Profile
+- **Major**: Computer Science (Sophomore)
+- **Focus**: Multi-Agent Orchestration & LLM Applications
+- **Project**: Developing agentic workflows for quantitative stock analysis using **OpenCode**
 
-### 🌐 Frontend & Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,py,go,mongodb,postgres" />
-  </a>
-</p>
-
-### 🔧 Tools & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,githubactions,postman" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
+### 📊 Coding Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BygooodbenDON&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BygooodbenDON&layout=compact&theme=transparent" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BygooodbenDON&theme=react-dark&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
+### 📈 GitHub Status
 <p align="center">
-  <img src="https://github.com/BygooodbenDON/BygooodbenDON/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BygooodbenDON&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BygooodbenDON&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BygooodbenDON&label=Profile%20views&color=0e75b6&style=flat" alt="BygooodbenDON" />
+  <img src="https://komarev.com/ghpvc/?username=BygooodbenDON&label=Profile%20views&color=58a6ff&style=flat-square" alt="BygooodbenDON" />
 </p>
