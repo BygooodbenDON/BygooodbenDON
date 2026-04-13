@@ -26,8 +26,8 @@
 
 ### 📈 GitHub Status
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BygooodbenDON&show_icons=true&theme=dark&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BygooodbenDON&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BygooodbenDON&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BygooodbenDON&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
 </p>
 
 ---
